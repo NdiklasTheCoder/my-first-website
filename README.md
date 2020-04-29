@@ -2,9 +2,9 @@
 #### Structure of Webpage, 29th April 2020
 #### **NdiklasTheCoder**
 ## Description
-  How to Structure text
-  How to insert images
-  How to creat Markdown
+  *How to Structure text
+  *How to insert images
+  *How to creat Markdown
 ## Work-plan for Exercise
 * Start with Header
 * Proceed to Body
